@@ -11,8 +11,8 @@ How to Run the Project Locally
 •	VS Code (recommended for Live Server extension and running the whole project in the terminal)
 
 Clone the Repository
-git clone "https://github.com/sahasrapurumandla/mu-connect"
-cd mu-connect
+git clone "https://github.com/jangidilaxmisanthoshi/FULLSTACKPROJECT"
+cd FULLSTACKPROJECT
 
 Backend Setup
 In terminal(VScode) run below commands one by one to download the node_models and packages:
