@@ -1,5 +1,9 @@
 ReadMe file
 
+demo(on backend,frontend,datastorage in mongodb):"https://drive.google.com/file/d/1Imw2s6QklXKebAcXeU6-UaglajsqUKYW/view?usp=drivesdk"
+website demo:"https://drive.google.com/file/d/1Ia226NUq-9-YMPjrTkEeuQ3EcmmMfQTC/view?usp=drivesdk"
+
+
 MU Connect – Final Year Project Application Portal
 MU Connect is a role-based web portal developed as part of the Software Engineering course project at Mahindra University. 
 It enables final-year students to apply for faculty-offered projects and facilitates streamlined project management for faculty and administrators.
@@ -151,6 +155,4 @@ Evaluation Notes
 •	Designed with modular architecture for scalability
 
 
-demo(on backend,frontend,datastorage in mongodb):"https://drive.google.com/file/d/1Imw2s6QklXKebAcXeU6-UaglajsqUKYW/view?usp=drivesdk"
-website demo:"https://drive.google.com/file/d/1Ia226NUq-9-YMPjrTkEeuQ3EcmmMfQTC/view?usp=drivesdk"
 
